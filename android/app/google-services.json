@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "646521869870",
+    "project_id": "doctor-app-52b40",
+    "storage_bucket": "doctor-app-52b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646521869870:android:e96833304d955d1275f1bf",
+        "android_client_info": {
+          "package_name": "com.sandali.MedicrossDoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83QDnhELuyV8Sf9oQS_5VDTdFVBTyay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646521869870:android:ad8f4e5f3c03683375f1bf",
+        "android_client_info": {
+          "package_name": "com.sandali.MedicrossPatient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83QDnhELuyV8Sf9oQS_5VDTdFVBTyay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646521869870:android:3440158e7dab061a75f1bf",
+        "android_client_info": {
+          "package_name": "lk.sandali.MedicalCross"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83QDnhELuyV8Sf9oQS_5VDTdFVBTyay0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646521869870-3r3hogasaib1pca8bmlhc4ajdk2noqtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
